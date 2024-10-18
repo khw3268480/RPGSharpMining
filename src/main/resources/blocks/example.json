@@ -1,0 +1,28 @@
+{
+  "blockName": "IRON_ORE",
+  "cooldown": 3,
+  "rewards": {
+    "10": {
+      "limitLevel": 1,
+      "dataCodes": [
+        "데이터코드:1",
+        "데이터코드2:3"
+      ],
+      "viewNames": [
+        "데이터코드:뷰네임1",
+        "데이터코드2:뷰네임2"
+      ],
+      "exp": 10,
+      "money": "5-10"
+    },
+    "15": {
+      "limitLevel": 1,
+      "dataCodes": [
+        "데이터코드:1",
+        "데이터코드2:3"
+      ],
+      "exp": 10,
+      "money": "5-10"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+name: RPGSharpMining
+version: '1.0-SNAPSHOT'
+main: com.binggre.rpgsharpmining.RPGSharpMining
+api-version: '1.18'
+depend:
+  - RpgSharp
+commands:
+  채광:
